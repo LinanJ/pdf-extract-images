@@ -2,8 +2,11 @@
 提取文件夹内所有pdf文件的图片
 
 环境：windows
+
 依赖：Xpdf Tools
+
 使用说明：
+
   1. 下载Xpdf Tools http://www.xpdfreader.com/download.html
   2. 将pdfextract.bat拷贝到bin64/bin32文件夹中
   
